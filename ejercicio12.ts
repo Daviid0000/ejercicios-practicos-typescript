@@ -1,0 +1,1 @@
+const direction: "up" | "down" | "left" | "right" = "up" 
